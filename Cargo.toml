@@ -1,0 +1,8 @@
+[package]
+name = "adivinanzas"
+version = "0.1.0"
+authors = ["Jose Narvaez <goyox86@gmail.com>"]
+
+[dependencies]
+
+rand="0.3.0"
